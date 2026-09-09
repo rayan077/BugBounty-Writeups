@@ -1,1 +1,0 @@
-# BugBounty-Writeups
