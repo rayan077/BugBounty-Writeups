@@ -9,7 +9,7 @@ While Shopify's platform-level safeguards (mandatory DNS TXT verification) succe
 
 ## Vulnerability Details
 * **Vulnerability Type:** DNS Misconfiguration / Dangling CNAME
-* **Severity:** Low / Informational (Downgraded due to vendor-side TXT verification)
+* **Severity:** Medium
 * **Affected Asset:** `shop.target.com`
 * **DNS Provider:** AWS Route 53
 * **Target Pointer:** `shops.myshopify.com`
